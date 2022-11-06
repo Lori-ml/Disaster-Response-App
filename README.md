@@ -6,7 +6,7 @@ Aim of this project is to help emergency workers classify disaster related messa
 
 ## Local run
 
-Following commands need to be in project's root directory
+Following commands need to be run in project's root directory
 
 1. Run ETL pipeline that cleans data and stores them in a SQLite database.
 ```bash
