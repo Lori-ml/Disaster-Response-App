@@ -1,5 +1,3 @@
-## [Disaster Response link](https://disaster-response-florida-2.herokuapp.com/)
-
 ## Project Description
 
 Aim of this project is to help emergency workers classify disaster related messages in several categories. Data has been provided by [Appen](https://appen.com/) and contains over 26 thousand real messages sent during disaster events. Messages entered are classified in several categories with an accuracy of 95%. 
