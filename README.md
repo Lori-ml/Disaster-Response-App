@@ -1,3 +1,10 @@
+##[Link to the app](https://dashboard.heroku.com/apps/myapp-worldbankdata-florida-1)
+
+On Nov 28,2022 Heroku changed the policies for free Databases, hence link for this app does not work.
+
+![image](https://user-images.githubusercontent.com/41455899/210284554-09e4035c-f3d3-489a-8a8a-eab66b77e379.png)
+
+
 ## Project Description
 
 Aim of this project is to help emergency workers classify disaster related messages in several categories. Data has been provided by [Appen](https://appen.com/) and contains over 26 thousand real messages sent during disaster events. Messages entered are classified in several categories with an accuracy of 95%. 
