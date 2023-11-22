@@ -1,9 +1,12 @@
+## Results 
+
+Below images show results from a test run in the application.
+
+![Main Page](https://github.com/Lori-ml/Disaster-Response-App/blob/main/images/Main%20page.PNG)
+
+![Prediction](https://github.com/Lori-ml/Disaster-Response-App/blob/main/images/Classification.PNG)
+
 ## [Link to the app](https://dashboard.heroku.com/apps/myapp-worldbankdata-florida-1)
-
-On Nov 28,2022 Heroku changed the policies for free Databases, hence link for this app does not work.
-
-![image](https://user-images.githubusercontent.com/41455899/210284554-09e4035c-f3d3-489a-8a8a-eab66b77e379.png)
-
 
 ## Project Description
 
@@ -48,15 +51,6 @@ Procfile - Is needed if application will be deployed in a server
 requirements.txt - Contains all necessary packages for this application, is needed if the app will be deployed.
 
 nltk.txt - Nltk libraries, is needed if the app will be deployed.
-
-
-## Results 
-
-Below images show results from a test run in the application.
-
-![Main Page](https://github.com/Lori-ml/Disaster-Response-App/blob/main/images/Main%20page.PNG)
-
-![Prediction](https://github.com/Lori-ml/Disaster-Response-App/blob/main/images/Classification.PNG)
 
 ## Acknowledgements
 Data used in this project was provided by [Appen](https://appen.com/).
